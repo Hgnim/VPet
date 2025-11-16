@@ -1,3 +1,7 @@
+> `main`分支为Hgnim魔改的Vpet版本（虽然目前也没改多少，将来也可能不会对其更改什么`:(`）\
+> `LorisYounger/VPet#xxx`类型的分支为被拒绝的拉取请求分支，`#xxx`为`LorisYounger/VPet`中拉取请求的编号。存档以用于后续可能会合并至`main`分支\
+> `LorisYounger/VPet/tree/main`分支为贡献分支，需为主仓库发起拉取请求时使用
+
 # VPet-Simulator
 
 简体中文 | [繁體中文](./README_zht.md) | [English](./README_en.md) | [日本語](./README_ja.md)
