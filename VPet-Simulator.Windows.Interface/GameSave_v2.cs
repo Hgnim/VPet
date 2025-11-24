@@ -159,7 +159,10 @@ namespace VPet_Simulator.Windows.Interface
         /// <summary>
         /// Hash检查
         /// </summary>
-        public bool HashCheck { get; private set; } = true;
+        public bool HashCheck {
+            get => true;
+            set {}
+        }
 
         /// <summary>
         /// 关闭该玩家的HashCheck检查
